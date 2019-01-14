@@ -26,7 +26,7 @@ Farmer's key considerations:
 * PRISM Climate Group, Oregon State University: http://prism.oregonstate.edu/
 * USDA Economics, Statistics and Market Information System (ESMIS) dataset of U.S national and state data for acreage, production, utilization, prices, and values for strawberries: https://usda.library.cornell.edu/concern/publications/8s45q876k?locale=en
 
-* Dataset Access Note: Government shutdown affected accesibilty of government datasets, like NOAA's Climate data
+*Dataset Access Note: Government shutdown affected accesibilty of government datasets, like NOAA's Climate data
 
 ### Findings
 #### What demand can small farmers meet in the food supply chain?
