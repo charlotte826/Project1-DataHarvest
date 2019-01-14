@@ -7,7 +7,7 @@
 * Neela: https://github.com/njulapalli
 
 ### Purpose
-Investigate key considerations for a small farmer starting a backyard farm business in Saratoga County, NY, which is an area where it is difficult to buy affordable and good-quality fresh food.
+Investigate key considerations for a small farmer starting a backyard farm business in Saratoga County, NY.
 
 ### Outline
 Farmer's key considerations: 
@@ -32,7 +32,7 @@ Farmer's key considerations:
 
 ### Findings
 #### What demand can small farmers meet in the food supply chain?
-* Food deserts are areas where low-income, grocery proximity or transportation access keep affordable and good-quality fresh food out of reach for a significant portion of the population. Our findings show that close-proximity produce grown from small farms is an in-demand solution that meets the needs of those living in these areas. This is especially true for the water-rich Saratoga County, NY area, where growing food and transporting it for sale in water-poor areas will reap major profit for farmers in the near future. [(*corresponding plots)](https://github.com/charlotte826/Project1-DataHarvest/tree/master/Demand)
+* Saratoga County, NY is considered a food desert, which is an area where low-income, grocery proximity or transportation access keep affordable and good-quality fresh food out of reach for a significant portion of the population. Our findings show that close-proximity produce grown from small farms is an in-demand solution that meets the needs of those living in these areas. This is especially true for the water-rich Saratoga County, NY area, where growing food and transporting it for sale in water-poor areas will reap major profit for farmers in the near future. [(*corresponding plots)](https://github.com/charlotte826/Project1-DataHarvest/tree/master/Demand)
 #### What are the current challenges facing small farmers to having profitable, high yield farms?
 * A major challenge facing small farmers today is the increasing unpredicitability of the environment. Based on our findings, the U.S. climate is experiencing an increase of frequency and magnitude of temperature outliers, which means harsher weather conditions and increased unpredicitailby of temperature and seasons. These factors significantly impact farmers’ ability to predict growing conditions and plan accordingly, which can have devastating effects on crop life and business sustainability. We recommend a controlled environment, like a greenhouse, as a small farmer's best investment to mitigate extreme and unforseeable conditions and protect their crops and profit. [(*corresponding plots)](https://github.com/charlotte826/Project1-DataHarvest/tree/master/Challenges)
 #### What products can small farmers focus on to increase profitability? 
