@@ -12,7 +12,7 @@ Investigate key considerations for a small farmer starting a backyard farm busin
 ### Outline
 Farmer's key considerations: 
 1. Demand: Understanding the farm's surrounding area demographic needs
-2. Challenges: Mitigating increasing environmental unpredictability
+2. Challenges: Mitigating environmental unpredictability
 3. Profitibility: Identifying high-demand crops and growing methods
 
 ### Research Questions
