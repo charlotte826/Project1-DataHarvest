@@ -1,0 +1,54 @@
+PRISM Time Series Data,
+Location:  Lat: 43.1075   Lon: -73.8639   Elev: 620ft,
+Climate variable: vpdmax,
+Spatial resolution: 4km,
+Period: 1970 - 2012,
+Dataset: AN81m,
+PRISM day definition: 24 hours ending at 1200 UTC on the day shown,
+Grid Cell Interpolation: Off,
+Time series generated: 2019-Jan-10,
+Details: http://www.prism.oregonstate.edu/documents/PRISM_datasets.pdf,
+Date,vpdmax (hPa)
+1970,9.63
+1971,9.44
+1972,8.62
+1973,9.84
+1974,9.01
+1975,9.16
+1976,8.78
+1977,9.7
+1978,9.49
+1979,8.94
+1980,9.91
+1981,9.66
+1982,9.75
+1983,9.81
+1984,8.99
+1985,9.52
+1986,8.51
+1987,9.06
+1988,9.93
+1989,9.04
+1990,9.45
+1991,10.83
+1992,8.47
+1993,9.28
+1994,9.19
+1995,10.07
+1996,8.63
+1997,9.3
+1998,9.89
+1999,11.02
+2000,8.64
+2001,10.59
+2002,10.27
+2003,9.25
+2004,8.96
+2005,10.65
+2006,9.53
+2007,10.52
+2008,9.4
+2009,9.15
+2010,11.08
+2011,9.33
+2012,11.06
