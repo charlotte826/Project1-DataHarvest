@@ -1,10 +1,10 @@
-# Project 1: A small-farmer's guide to creating a backyard farm business
+# Project 1: A primer for starting a backyard farm business
 
 #### Group: Data Harvest
 #### Team members: 
-#### Charlotte: 
-#### Tumi: 
-#### Neela: 
+* Charlotte: https://github.com/charlotte826
+* Tumi: 
+* Neela: https://github.com/njulapalli
 
 ### Purpose
 Investigate key considerations for a small farmer starting a backyard farm business in an area where it is difficult to buy affordable and good-quality fresh food.
