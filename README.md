@@ -7,7 +7,7 @@
 #### Neela: 
 
 ### Purpose
-* Investigate key considerations for a small-farmer starting a backyard farm business in an area where it is difficult to buy affordable and good-quality fresh food.
+* Investigate key considerations for a small farmer starting a backyard farm business in an area where it is difficult to buy affordable and good-quality fresh food.
 
 ### Outline
 * Farmer's key considerations: 
