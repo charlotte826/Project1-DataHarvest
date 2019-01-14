@@ -30,7 +30,7 @@ Farmer's key considerations:
 
 ### Findings
 #### What demand can small farmers meet in the food supply chain?
-* Food deserts are areas where low-income, grocery proximity or transportation access keep affordable and good-quality fresh food out of reach for a significant portion of the population. Our findings show that close-proximity produce grown from small farms can be a solution to meet the needs of those living in these areas. (plots location: Demand folder)
+* Food deserts are areas where low-income, grocery proximity or transportation access keep affordable and good-quality fresh food out of reach for a significant portion of the population. Our findings show that close-proximity produce grown from small farms is an in-demand solution that meets the needs of those living in these areas. (plots location: Demand folder)
 #### What are the current challenges facing small farmers to having profitable, high yield farms?
 * A major challenge facing small farmers today is the increasing unpredicitability of the environment. Based on our findings, a controlled environment, like a greenhouse, will be a small farmer's best investment to protect crops and mitigate extreme and unforseeable conditions. (plots location: Challenges folder)
 #### What products can small farmers focus on to increase profitability? 
