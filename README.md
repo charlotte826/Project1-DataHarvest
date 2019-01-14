@@ -24,9 +24,9 @@ Farmer's key considerations:
 * USDA ERA Food Access Dataset: https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/
 * USDA Vegetable Market Outlook: https://www.ers.usda.gov/topics/crops/vegetables-pulses/market-outlook/
 * USDA ARMS Farm Financial and Crop Production Practices: https://www.ers.usda.gov/data-products/arms-farm-financial-and-crop-production-practices/
-* NASA GISS (Goddard Institute for Space Studies) Surface Temperature: https://data.giss.nasa.gov/gistemp/
-* PRISM Climate Group, Oregon State University: http://prism.oregonstate.edu/
-* USDA Economics, Statistics and Market Information System (ESMIS) U.S National/State Data for Strawberries: https://usda.library.cornell.edu/concern/publications/8s45q876k?locale=en
+* NASA GISS Surface Temperature Dataset: https://data.giss.nasa.gov/gistemp/
+* PRISM Climate Group County-Based Temperature Dataset: http://prism.oregonstate.edu/
+* USDA Economics, Statistics and Market Information System (ESMIS) U.S Strawberry Industry: https://usda.library.cornell.edu/concern/publications/8s45q876k?locale=en
 
 *Dataset Access Note: Government shutdown affected accesibilty of government datasets, like NOAA's Climate data
 
