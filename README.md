@@ -3,7 +3,7 @@
 #### Group: Data Harvest
 #### Team members: 
 * Charlotte: https://github.com/charlotte826
-* Tumi: 
+* Tumi: https://github.com/tumioo
 * Neela: https://github.com/njulapalli
 
 ### Purpose
