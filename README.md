@@ -29,9 +29,9 @@ Farmer's key considerations:
 * Dataset Access Note: Government shutdown affected accesibilty of government datasets, like NOAA's Climate data
 
 ### Findings
-## What demand can small farmers meet in the food supply chain?
+#### What demand can small farmers meet in the food supply chain?
 * Food deserts are areas where low-income, grocery proximity or transportation access keep affordable and good-quality fresh food out of reach for a significant portion of the population. Our findings show that close-proximity produce grown from small farms can be a solution to meet the needs of those living in these areas. (plots location: Demand folder)
-## What are the current challenges facing small farmers to having profitable, high yield farms?
+#### What are the current challenges facing small farmers to having profitable, high yield farms?
 * A major challenge facing small farmers today is the increasing unpredicitability of the environment. Based on our findings, a controlled environment, like a greenhouse, will be a small farmer's best investment to protect crops and mitigate extreme and unforseeable conditions. (plots location: Challenges folder)
-## What products can small farmers focus on to increase profitability? 
+#### What products can small farmers focus on to increase profitability? 
 * Our national and local crop analyzation revealed that strawberries and onions may be a NY-based small farmer's best crops to invest in their first year, with organic onions fetching higher prices. These are the top performing crops in terms of revenue in the state. (plots location: Profitibility folder)
