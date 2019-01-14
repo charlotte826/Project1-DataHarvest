@@ -21,15 +21,9 @@ Farmer's key considerations:
 3. What products can small farmers focus on to increase profitability?
 
 ### Datasets
-1. Demand
-1a.  USDA ERA Food Access Dataset: https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/
-
-2. Challenges
-2a. NASA GISS (Goddard Institute for Space Studies) Surface Temperature: https://data.giss.nasa.gov/gistemp/
-2b. PRISM Climate Group, Oregon State University: http://prism.oregonstate.edu/
-2c. The USDA Economics, Statistics and Market Information System (ESMIS): U.S national and state data for acreage, production, utilization, prices, and values for strawberries: https://usda.library.cornell.edu/concern/publications/8s45q876k?locale=en
-
-3. Profitibility
-3a. 
+* USDA ERA Food Access Dataset: https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/
+* NASA GISS (Goddard Institute for Space Studies) Surface Temperature: https://data.giss.nasa.gov/gistemp/
+* PRISM Climate Group, Oregon State University: http://prism.oregonstate.edu/
+* USDA Economics, Statistics and Market Information System (ESMIS) dataset of U.S national and state data for acreage, production, utilization, prices, and values for strawberries: https://usda.library.cornell.edu/concern/publications/8s45q876k?locale=en
 
 * Dataset Access Note: Government shutdown affected accesibilty of government datasets, like NOAA's Climate data
