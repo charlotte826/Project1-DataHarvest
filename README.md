@@ -28,7 +28,12 @@ Farmer's key considerations:
 * PRISM Climate Group County-Based Temperature Dataset: http://prism.oregonstate.edu/
 * USDA Economics, Statistics and Market Information System (ESMIS) U.S Strawberry Industry: https://usda.library.cornell.edu/concern/publications/8s45q876k?locale=en
 
-*Dataset Access Note: Government shutdown affected accesibilty of government datasets, like NOAA's Climate data
+### Visualizations (Sampling)
+
+![alt text](https://raw.githubusercontent.com/charlotte826/Project1-DataHarvest/master/Profitibility/NY%20State%20Food%20Access%20Map.png)
+![alt text](https://raw.githubusercontent.com/charlotte826/Project1-DataHarvest/master/Challenges/Charts/Annual_US_Temp-LIVE.png)
+![alt text](https://raw.githubusercontent.com/charlotte826/Project1-DataHarvest/master/Challenges/Charts/Avg_Temp_PPT_Monthly_Saratoga_NY_Shelved.png)
+![alt text](https://raw.githubusercontent.com/charlotte826/Project1-DataHarvest/master/Challenges/Charts/US_Climate_vs_StrawberryYields_Shelved.png)
 
 ### Findings
 #### What demand can small farmers meet in the food supply chain?
